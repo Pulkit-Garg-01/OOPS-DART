@@ -1,0 +1,6 @@
+{"version":1,"sembast":1}
+{"key":{"channel_name":"channel1","server_name":"ser1"},"value":{"user":"a","message":"hello"}}
+{"key":{"channel_name":"channel","server_name":"12"},"value":{"user":"12","message":"hello"}}
+{"key":{"channel_name":"channel","server_name":"12"},"value":{"user":"a","message":"1"}}
+{"key":{"channel_name":"channel","server_name":"1"},"value":{"user":"a","message":"123"}}
+{"key":{"channel_name":"channel","server_name":"12"},"value":{"user":"a","message":"hello"}}

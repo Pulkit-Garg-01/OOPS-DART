@@ -1,0 +1,11 @@
+{"version":1,"sembast":1}
+{"key":"1","value":{"chan_list":[],"cat_list":[],"mem_list":[{"name":"PG","role":"Creator"}]}}
+{"key":"ser1","value":{"chan_list":["channel1"],"cat_list":[],"mem_list":[{"name":"qw","role":"Creator"}]}}
+{"key":"ser1","deleted":true}
+{"key":"ser1","value":{"chan_list":["channel1"],"cat_list":[],"mem_list":[{"name":"qw","role":"Creator"},{"name":"a","role":"mod"}]}}
+{"key":"1","deleted":true}
+{"key":"1","value":{"chan_list":[],"cat_list":[],"mem_list":[{"name":"PG","role":"Creator"},{"name":"a","role":"mod"}]}}
+{"key":"123","value":{"chan_list":[],"cat_list":[],"mem_list":[{"name":"a","role":"Creator"}]}}
+{"key":"12","value":{"chan_list":[],"cat_list":[],"mem_list":[{"name":"12","role":"Creator"}]}}
+{"key":"12","deleted":true}
+{"key":"12","value":{"chan_list":["channel"],"cat_list":[],"mem_list":[{"name":"12","role":"Creator"}]}}
